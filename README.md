@@ -1,5 +1,10 @@
 # KIRIS
 
+> **RETIRED (2026-07-16).** The name-gated voice assistant never earned its
+> keep in daily use. Repo archived; no further development. LARIS (dictation)
+> and the claude-code-ops panel continue without it, and meeting recording
+> now lives in [MIRIS](https://github.com/sammyjdev/miris).
+
 Keyword-Initiated Request Interpretation System - the name-gated voice
 assistant layered on [LARIS](https://github.com/sammyjdev/laris) in
 [claude-code-ops](https://github.com/sammyjdev/claude-code-ops): say "kiris,
